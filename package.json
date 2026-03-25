@@ -2,7 +2,7 @@
   "name": "demo-project",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"No tests yet\" && exit 0",
+    "test": "echo \"No testss yet\" && exit 0",
     "lint": "echo \"No lint configured\""
   }
 }
